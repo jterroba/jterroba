@@ -12,7 +12,7 @@
 Hi, I'm [José Luis Terroba Márquez](https://www.calistrea.com/), a  Full Stack web developer and a freelance software engineer from Spain. I`m experienced in 
 PHP, Smarty PHP, MySQL, Javascript, JQuery, AJAX, HTML5, CSS3, Bootstrap, Web services (SOAP, REST), NginX, MVC, GIT, CleanCode and best development practices.
 
-  <img align="right" alt="GIF" src="https://github.com/jterroba/jterroba/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/jterroba/jterroba/master/code.gif?raw=true" width="500" height="320" />
 
 - 🌱 I’m currently learning NodeJS, Python, DDD and trying some mobile programming  
 - 💬 Ask me about anything, I am happy to help;
