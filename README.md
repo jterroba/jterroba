@@ -1,12 +1,11 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 <a href="https://linkedin.com/in/jterroba/">
   <img align="left" alt="Jose Luis Terroba | LinkedIN" width="22px" src="https://raw.githubusercontent.com/jterroba/jterroba/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/jterroba/">
   <img align="left" alt="Jose Luis Terroba | Instagram" width="22px" src="https://raw.githubusercontent.com/jterroba/jterroba/master/assets/instragram.svg" />
 </a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=jterroba.jterroba)
 
 <br />
 
@@ -29,3 +28,7 @@ PHP, Smarty PHP, MySQL, Javascript, JQuery, AJAX, HTML5, CSS3, Bootstrap, Web se
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+<br />
+
+![](https://visitor-badge.glitch.me/badge?page_id=jterroba.jterroba)
