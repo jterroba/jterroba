@@ -4,7 +4,7 @@
   <img align="left" alt="Jose Luis Terroba | LinkedIN" width="22px" src="https://raw.githubusercontent.com/jterroba/jterroba/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/jterroba/">
-  <img align="left" alt="Jose Luis Terroba | Instagram" width="22px" src="https://raw.githubusercontent.com/jterroba/jterroba/master/assets/instragram.svg" />
+  <img align="left" alt="Jose Luis Terroba | Instagram" width="22px" src="https://raw.githubusercontent.com/jterroba/jterroba/master/assets/instagram.svg" />
 </a>
 
 <br />
