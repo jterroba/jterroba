@@ -7,7 +7,7 @@
   <img align="left" alt="Jose Luis Terroba | Instagram" width="22px" src="https://raw.githubusercontent.com/jterroba/jterroba/master/assets/instagram.svg" />
 </a>
 
-<p></p>
+<br /><br />
 
 Hi, I'm [José Luis Terroba Márquez](https://www.calistrea.com/), a  Full Stack web developer and a freelance software engineer from Spain. I`m experienced in 
 PHP, Smarty PHP, MySQL, Javascript, JQuery, AJAX, HTML5, CSS3, Bootstrap, Web services (SOAP, REST), NginX, MVC, GIT, CleanCode and best development practices.
