@@ -14,10 +14,10 @@ PHP, Smarty PHP, MySQL, Javascript, JQuery, AJAX, HTML5, CSS3, Bootstrap, Web se
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/jterroba/jterroba/master/code.gif?raw=true" width="500" height="320" />
 
-- 🌱 I’m currently learning NodeJS, Python, DDD and trying some mobile programming  
+- 🌱 I’m currently learning all related with AI (skills, agents, etc)  
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@jterroba](https://twitter.com/jterroba);
-- 📝 [Resume Code Version](https://www.calistrea.com/cvcode)
+- 📫 How to reach me: jterroba@gmail.com
+
 
 **Languages and Tools:**  
 
